@@ -1,0 +1,7 @@
+print "Hello world " 
+puts "Ellis"
+# print "is cool"
+puts "    /|"
+puts "   / |"
+puts "  /  |"
+puts " /___|"
