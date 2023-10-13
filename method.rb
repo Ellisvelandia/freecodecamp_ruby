@@ -9,3 +9,9 @@ def sayhi(name, age)
   end
   
   sayhi("Ellis", 30)
+
+  def cubs(num)
+    return num * num * num, 70
+  end
+ 
+  puts cubs(3)
