@@ -1,5 +1,6 @@
 Jim , Sales
-Andy , Sales
+Overriddenes
 Kelly , Customer services
 Creed, Quality Assurance
 Michael, Manager
+Oscar ,  Accounting
